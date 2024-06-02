@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS Logo" width="100" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS Logo" width="50" height="50">
   </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 logo" 

@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
       </a>
     </div>
     <div class="Module Bandler">
-      <a href="https://vitejs.dev> target="_blank">
+      <a href="https://vitejs.dev/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vitejs.svg" width="50">
       </a>
     </div>

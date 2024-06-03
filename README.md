@@ -39,12 +39,14 @@ You can click the Preview link to take a look at your changes.
       <a href="https://react.dev/" target="_blank" >
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/react-2.svg" width="45">
       <a>
-      <a href="https://vuejs.org/" traget="_blank">
+      <a href="https://vuejs.org/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" width="45">
       </a>
     </div>
     <div class="Module Bandler">
+      <a href="https://vitejs.dev/> target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vitejs.svg" width="50">
+      </a>
     </div>
     <div class="BAKEND">
       <a href="https://www.postgresql.org/docs/" target="_blank">

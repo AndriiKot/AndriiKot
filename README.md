@@ -29,10 +29,10 @@ You can click the Preview link to take a look at your changes.
     width="50" height="50">
   </a>
   </div>
-    
+    <div>
       <a href="https://ecma-international.org/publications-and-standards/standards/" target="_blank">
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="Sass logo" width="50" height="50">
   </a>
-
+    </div>
 </div>
 

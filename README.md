@@ -37,5 +37,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="Sass logo" width="50" height="50">
   </a>
     </div>
+    <div>
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/postgresql.svg" alt="PostreSQL logo" width="50">
+    </div>
 </div>
 

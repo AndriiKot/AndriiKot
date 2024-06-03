@@ -37,17 +37,17 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="JS logo" width="50" height="50">
   </a>
       <a href="https://react.dev/" target="_blank" >
-      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/react-2.svg" width="45">
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/react-2.svg" alt="React logo" width="45">
       <a>
       <a href="https://vuejs.org/" target="_blank">
-      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" width="45">
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" alt="Vue logo" width="45">
       </a>
     </div>
     <div class="Module Bandler">
       <a href="https://vitejs.dev/" target="_blank">
-      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vitejs.svg" width="50">
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vitejs.svg" alt="Vite logo" width="50">
       </a>
-      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/webpack-icon.svg" width="50">
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/webpack-icon.svg" alt="Webpack logo" width="50">
     </div>
     <div class="BAKEND">
       <a href="https://www.postgresql.org/docs/" target="_blank">

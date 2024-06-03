@@ -43,6 +43,9 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" width="45">
       </a>
     </div>
+    <div class="Module Bandler">
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vitejs.svg" width="50">
+    </div>
     <div class="BAKEND">
       <a href="https://www.postgresql.org/docs/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/postgresql.svg" alt="PostreSQL logo" width="50">

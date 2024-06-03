@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 logo" 
     width="50" height="50">
   </a>
-  <img src="https://images.app.goo.gl/NYYNJu2ENTCkks2e9" alt="Pug logo">
+  <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/pug.svg" alt="Pug logo">
   </div>
     <div>
       <a href="https://ecma-international.org/publications-and-standards/standards/" target="_blank">

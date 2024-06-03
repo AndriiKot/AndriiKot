@@ -34,8 +34,9 @@ You can click the Preview link to take a look at your changes.
   </div>
     <div>
       <a href="https://ecma-international.org/publications-and-standards/standards/" target="_blank">
-    <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="Sass logo" width="50" height="50">
+    <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="JS logo" width="50" height="50">
   </a>
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" width="50">
     </div>
     <div>
       <a href="https://www.postgresql.org/docs/" target="_blank">

@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
       <a href="https://ecma-international.org/publications-and-standards/standards/" target="_blank">
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="JS logo" width="50" height="50">
   </a>
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/react-2.svg" width="45">
       <a href="https://vuejs.org/" traget="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" width="45">
       </a>

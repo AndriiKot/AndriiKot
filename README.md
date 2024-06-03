@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="Sass logo" width="50" height="50">
   </a>
 
-    <a href="https://stylus-lang.com/" target="_blank">
-    <img src="https://stylus-lang.com/logo.svg" alt="Stylus logo" width="50" height="50" >
-  </a>
   </div>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 logo" 

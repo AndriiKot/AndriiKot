@@ -66,7 +66,9 @@ You can click the Preview link to take a look at your changes.
       </a>
     </div>
       <div class="OTHER">
-        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/git-icon.svg" alt="Git logo" width="45">
+        <a href="https://www.git-scm.com/doc" target="_blank">
+        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/git-icon.svg" alt="Git logo" width="50">
+        </a>
       </div>
 </div>
 

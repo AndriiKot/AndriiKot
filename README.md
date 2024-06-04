@@ -75,6 +75,7 @@ You can click the Preview link to take a look at your changes.
         <a href="https://chatgpt.com/auth/login" targe="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/chatgpt-1.svg" alt="ChatGPT logo" width="45">
         </a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/ConEmu_icon.png" alt="ConEmu logo" width="45">
       </div>
 </div>
 

@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
       </div>
       <div class="Deployd">
         <a href="https://docs.docker.com/" target="_blank">
-        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/docker-4.svg" alt="Docker logo" width="50">
+        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/docker-4.svg" alt="Docker logo" width="60">
         </a>
       </div>
 </div>

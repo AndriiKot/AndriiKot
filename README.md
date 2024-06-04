@@ -23,7 +23,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://stylus-lang.com/logo.svg" alt="Stylus logo" width="40" height="50" >
   </a>
   <span>___Others___: </span>
+  <a href="https://postcss.org/docs/" target="_blank">
   <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/postcss.svg" alt="PostCSS logo" width="40">
+  </a>
   <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/less.svg" alt="Less logo" height ="25">
 </div>
   <div class="HTML">

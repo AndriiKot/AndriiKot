@@ -69,8 +69,12 @@ You can click the Preview link to take a look at your changes.
         <a href="https://www.git-scm.com/doc" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/git-icon.svg" alt="Git logo" width="50">
         </a>
+        <a href="https://code.visualstudio.com/docs" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/visual-studio-code-1.svg" alt="VsCode logo" width="45">
+        </a>
+        <a href="https://chatgpt.com/auth/login" targe="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/chatgpt-1.svg" alt="ChatGPT logo" width="45">
+        </a>
       </div>
 </div>
 

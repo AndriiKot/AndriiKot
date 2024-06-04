@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://stylus-lang.com/" target="_blank">
     <img src="https://stylus-lang.com/logo.svg" alt="Stylus logo" width="40" height="40" >
   </a>
-  <span>Other: </span>
+  <span>___Other___: </span>
 </div>
   <div class="HTML">
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">

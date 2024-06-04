@@ -70,6 +70,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/git-icon.svg" alt="Git logo" width="50">
         </a>
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/visual-studio-code-1.svg" alt="VsCode logo" width="45">
+        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/chatgpt-1.svg" alt="ChatGPT logo" width="45">
       </div>
 </div>
 

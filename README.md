@@ -69,6 +69,7 @@ You can click the Preview link to take a look at your changes.
         <a href="https://www.git-scm.com/doc" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/git-icon.svg" alt="Git logo" width="50">
         </a>
+        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/visual-studio-code-1.svg" alt="VsCode logo" width="50">
       </div>
 </div>
 

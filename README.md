@@ -92,5 +92,8 @@ You can click the Preview link to take a look at your changes.
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/ConEmu_icon.png" alt="ConEmu logo" width="45">
         </a>
       </div>
+      <div class="Deployd">
+        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/docker-4.svg" alt="Docker logo" width="50">
+      </div>
 </div>
 

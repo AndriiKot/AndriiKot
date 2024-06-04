@@ -42,7 +42,9 @@ You can click the Preview link to take a look at your changes.
       <a href="https://vuejs.org/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" alt="Vue logo" width="45">
       </a>
+        <a href="https://eslint.org/docs/latest/" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/eslint-1.svg" alt="Eslint logo" width="40">
+        </a>
     </div>
     <div class="Module Bandler">
       <a href="https://vitejs.dev/" target="_blank">

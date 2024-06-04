@@ -65,5 +65,8 @@ You can click the Preview link to take a look at your changes.
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/ruby.svg" alt="Ruby logo" width="45">
       </a>
     </div>
+      <div class="OTHER">
+        <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/git-icon.svg" alt="Git logo" width="45">
+      </div>
 </div>
 

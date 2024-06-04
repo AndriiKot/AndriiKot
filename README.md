@@ -99,6 +99,8 @@ You can click the Preview link to take a look at your changes.
         <a href="https://www.virtualbox.org/" target="_blank">
           <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/virtualbox.svg" alt="VirtualBox logo" height="40">
         </a>
+      <span>___Others___: </span>
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vagrant.svg" alt="Vagrant logo" width="50">
       </div>
 </div>
 

@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://stylus-lang.com/logo.svg" alt="Stylus logo" width="40" height="40" >
   </a>
   <span>___Other___: </span>
+  <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/less.svg" alt="Less logo" width="40">
 </div>
   <div class="HTML">
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">

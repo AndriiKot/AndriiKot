@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://postcss.org/docs/" target="_blank">
   <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/postcss.svg" alt="PostCSS logo" width="40">
   </a>
+  <a href="https://lesscss.org/" target="_blanl">
   <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/less.svg" alt="Less logo" height ="25">
+  </a>
 </div>
   <div class="HTML">
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">

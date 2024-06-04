@@ -72,10 +72,12 @@ You can click the Preview link to take a look at your changes.
         <a href="https://code.visualstudio.com/docs" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/visual-studio-code-1.svg" alt="VsCode logo" width="45">
         </a>
-        <a href="https://chatgpt.com/auth/login" targe="_blank">
+        <a href="https://chatgpt.com/auth/login" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/chatgpt-1.svg" alt="ChatGPT logo" width="45">
         </a>
+        <a href="https://conemu.github.io/blog/2023/07/24/Build-230724.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/ConEmu_icon.png" alt="ConEmu logo" width="45">
+        </a>
       </div>
 </div>
 

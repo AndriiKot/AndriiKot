@@ -63,6 +63,7 @@ You can click the Preview link to take a look at your changes.
       <a href="https://webpack.js.org/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/webpack-icon.svg" alt="Webpack logo" width="50">
       </a>
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/npm.svg" alt="Npm logo" width="50">
     </div>
     <div class="BAKEND">
       <a href="https://www.postgresql.org/docs/" target="_blank">

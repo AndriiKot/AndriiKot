@@ -70,7 +70,10 @@ You can click the Preview link to take a look at your changes.
       <a href="https://gulpjs.com/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/gulp-1.svg" alt="Gulp logo" height="40">
       </a>
-      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/grunt-1.svg" alt="Grunt logo" height="50">
+      <a href="https://gruntjs.com/getting-started" target="_blanl">
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/grunt-1.svg" alt="Grunt logo" 
+        height="50">
+      </a>
     </div>
     <div class="BAKEND">
       <a href="https://www.postgresql.org/docs/" target="_blank">

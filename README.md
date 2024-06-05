@@ -66,6 +66,8 @@ You can click the Preview link to take a look at your changes.
       <a href="https://docs.npmjs.com/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/npm.svg" alt="Npm logo" height="25">
       </a>
+      <span>__Others:__</span>
+      <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/gulp-1.svg" alt="Gulp logo" height="50">
     </div>
     <div class="BAKEND">
       <a href="https://www.postgresql.org/docs/" target="_blank">

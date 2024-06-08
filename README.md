@@ -8,7 +8,7 @@ AndriiKot/AndriiKot is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<center><h1>My Main TOOLS:</h1></center>
+# My Main TOOLS:
 
 <div>
   <div class="CSS">

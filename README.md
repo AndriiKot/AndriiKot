@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <div class="CSS">
+    <table> <tr> <td> <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS Logo" width="50" height="50"> </a> </td> <td>Это логотип CSS с официального сайта W3C.</td> </tr> </table
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS Logo" width="50" height="50">
   </a>

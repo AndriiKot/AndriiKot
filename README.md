@@ -94,15 +94,46 @@ You can click the Preview link to take a look at your changes.
       </td>
     </tr>
   </table>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 logo" 
-    width="50" height="50">
-  </a>
-    <a href="https://pugjs.org/api/getting-started.html" target="_blank">
-  <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/pug.svg" alt="Pug logo" width=40">
-    </a>
   </div>
     <div class="JS">
+      <table>
+        <tr>
+          <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+                alt="JS logo"
+                width="50"
+              />
+            </a>
+          </td>
+          <td>
+            <a href="https://nodejs.org/en/docs/" target="_blank">
+              <img
+                src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/nodejs.svg"
+                alt="Node.js logo">
+            </a>  
+          </td>
+          <td>
+            <a href="https://www.npmjs.com/" target="_blank">
+              <img
+                src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/npm.svg"
+                alt="NPM logo"
+                width="40"
+              />
+            </a>
+          </td>
+          <td>
+            <a href="https://www.yarnpkg.com/en/docs/" target="_blank">
+              <img
+                src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/yarn.svg"
+                alt="Yarn logo"
+                width="40"
+              />
+            </a>
+          </td>       
+        </tr>     
+      </table>
       <a href="https://ecma-international.org/publications-and-standards/standards/" target="_blank">
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="JS logo" width="50" height="50">
   </a>

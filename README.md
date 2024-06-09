@@ -70,6 +70,30 @@ You can click the Preview link to take a look at your changes.
   </table>
   </div>
   <div class="HTML">
+  <table>
+    <tr>
+      </td>
+      <td>
+        <a href="https://html.spec.whatwg.org/" target="_blank">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+            alt="HTML5 logo"
+            width="50"
+            height="50"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://pugjs.org/api/getting-started.html" target="_blank">
+          <img
+            src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/pug.svg"
+            alt="Pug logo"
+            width="40"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 logo" 
     width="50" height="50">

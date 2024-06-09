@@ -97,58 +97,34 @@ You can click the Preview link to take a look at your changes.
   </div>
     <div class="JS">
       <table>
-        <tr>
-          <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-              <img
-                src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
-                alt="JS logo"
-                width="50"
-              />
-            </a>
-          </td>
-          <td>
-            <a href="https://nodejs.org/en/docs/" target="_blank">
-              <img
-                src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/nodejs.svg"
-                alt="Node.js logo">
-            </a>  
-          </td>
-          <td>
-            <a href="https://www.npmjs.com/" target="_blank">
-              <img
-                src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/npm.svg"
-                alt="NPM logo"
-                width="40"
-              />
-            </a>
-          </td>
-          <td>
-            <a href="https://www.yarnpkg.com/en/docs/" target="_blank">
-              <img
-                src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/yarn.svg"
-                alt="Yarn logo"
-                width="40"
-              />
-            </a>
-          </td>       
-        </tr>     
-      </table>
+      <tr>
+      <td>
       <a href="https://ecma-international.org/publications-and-standards/standards/" target="_blank">
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="JS logo" width="50" height="50">
   </a>
+</td>
+      <td>
       <a href="https://react.dev/" target="_blank" >
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/react-2.svg" alt="React logo" width="45">
-      <a>
+      </a>
+      </td>
+      <td>
       <a href="https://vuejs.org/" target="_blank">
       <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg" alt="Vue logo" width="45">
       </a>
+      </td>
+      <td>
         <a href="https://eslint.org/docs/latest/" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/eslint-1.svg" alt="Eslint logo" width="40">
         </a>
+      </td>
+      <td>
         <a href="https://prettier.io/" target="_blank">
         <img src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/prettier-2.svg" alt="Prettier logo" width="40">
         </a>
+      </td>
+      </tr>
+      </table>
     </div>
     <div class="Module Bandler">
       <a href="https://vitejs.dev/" target="_blank">

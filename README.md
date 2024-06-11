@@ -44,6 +44,9 @@ You can click the Preview link to take a look at your changes.
           </a>
         </td>
         <td>
+          <span>___Others___: </span>
+        </td>
+        <td>
           <a href="https://stylus-lang.com/" target="_blank">
             <img
               src="https://stylus-lang.com/logo.svg"
@@ -52,9 +55,6 @@ You can click the Preview link to take a look at your changes.
               height="50"
             />
           </a>
-        </td>
-        <td>
-          <span>___Others___: </span>
         </td>
         <td>
           <a href="https://lesscss.org/" target="_blanl">

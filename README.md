@@ -15,15 +15,6 @@ You can click the Preview link to take a look at your changes.
     <table>
       <tr>
         <td>
-          <a href="https://postcss.org/docs/" target="_blank">
-            <img
-              src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/postcss.svg"
-              alt="PostCSS logo"
-              width="40"
-            />
-          </a>
-        </td>
-        <td>
           <a href="https://www.w3.org/Style/CSS/" target="_blank">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"

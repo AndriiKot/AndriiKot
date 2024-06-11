@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <div class="CSS">
     <table>
       <tr>
-<!--         <td>
+        <td>
           <a href="https://postcss.org/docs/" target="_blank">
             <img
               src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/postcss.svg"
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
               width="40"
             />
           </a>
-        </td> -->
+        </td>
         <td>
           <a href="https://www.w3.org/Style/CSS/" target="_blank">
             <img

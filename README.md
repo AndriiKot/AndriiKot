@@ -145,6 +145,16 @@ You can click the Preview link to take a look at your changes.
             />
           </a>
         </td>
+        <td>
+          <a href="https://babeljs.io/">
+           <img
+             src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel-10.svg"
+             alt="Babel logo"
+             width="100"
+             height="50"
+            />
+         </a>
+        </td>
       </tr>
     </table>
   </div>

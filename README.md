@@ -158,7 +158,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   <div class="React">
     <table>
-      <tr>
+      <>
         <td>
           <a href="https://react.dev/">
             <img
@@ -168,8 +168,6 @@ You can click the Preview link to take a look at your changes.
             />
           </a>
         </td>
-      </tr>
-      <tr>
         <td>
           <a href="https://tanstack.com/">
             <img

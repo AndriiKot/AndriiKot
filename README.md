@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AndriiKot
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently React, Vue, PostgreSQL
+- 👋 Hi, I’m @AndriiKot - 👀 I’m interested in Frontend Development - 🌱 I’m
+currently React, Vue, PostgreSQL
 
 <!---
 AndriiKot/AndriiKot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@ You can click the Preview link to take a look at your changes.
               height="50"
             />
           </a>
-        </td>     
+        </td>
         <td>
           <a href="https://postcss.org/docs/" target="_blank">
             <img
@@ -146,13 +145,13 @@ You can click the Preview link to take a look at your changes.
         </td>
         <td>
           <a href="https://babeljs.io/">
-           <img
-             src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel-10.svg"
-             alt="Babel logo"
-             width="100"
-             height="50"
+            <img
+              src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/babel-10.svg"
+              alt="Babel logo"
+              width="100"
+              height="50"
             />
-         </a>
+          </a>
         </td>
       </tr>
     </table>
@@ -164,7 +163,20 @@ You can click the Preview link to take a look at your changes.
           <a href="https://react.dev/">
             <img
               src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-2.svg"
-                      alt="React logo" width="50">
+              alt="React logo"
+              width="50"
+            />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://tanstack.com/">
+            <img
+              src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-query-seeklogo.svg"
+              alt="React Query logo"
+              width="50"
+            />
           </a>
         </td>
       </tr>

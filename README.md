@@ -158,6 +158,24 @@ You can click the Preview link to take a look at your changes.
       </tr>
     </table>
   </div>
+  <div class="React">
+    <table>
+      <tr>
+        <td>
+            <span class="React">
+    <a href="https://react.dev/">
+      <img
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-2.svg"
+        alt="React logo"
+        width="100"
+        height="100"
+      />
+    </a>
+  </span>
+        </td>
+      </tr>
+    </table>
+  </div>
   <div class="Module Bandler">
     <table>
       <tr>

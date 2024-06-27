@@ -108,15 +108,6 @@ You can click the Preview link to take a look at your changes.
           </a>
         </td>
         <td>
-          <a href="https://react.dev/" target="_blank">
-            <img
-              src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/react-2.svg"
-              alt="React logo"
-              width="45"
-            />
-          </a>
-        </td>
-        <td>
           <a href="https://vuejs.org/" target="_blank">
             <img
               src="https://github.com/AndriiKot/PROJECTS/blob/main/assets/vue-9.svg"
@@ -158,7 +149,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   <div class="React">
     <table>
-      <>
         <td>
           <a href="https://react.dev/">
             <img

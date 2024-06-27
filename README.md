@@ -2,7 +2,6 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently React, Vue, PostgreSQL
 
-
 <!---
 AndriiKot/AndriiKot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -165,12 +164,8 @@ You can click the Preview link to take a look at your changes.
           <a href="https://react.dev/">
             <img
               src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/react-2.svg"
-                      alt="React logo"
-        width="50"
-      
-      />
-    </a>
-  
+                      alt="React logo" width="50">
+          </a>
         </td>
       </tr>
     </table>

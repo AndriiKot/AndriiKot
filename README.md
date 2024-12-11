@@ -185,6 +185,7 @@
     <tr>
       <th height=33 width=100>PostgreSQL</th>
       <th height=33 width=100>SQLite</th>
+      <th height=33 width=100>MongoDB</th>
       <th height=33 width=100>JSON</th>
       <th height=33 width=100>YAML</th>
       <th height=33 width=100>DBeaver</th>
@@ -201,6 +202,11 @@
       <td height=100 width=100>
         <a href=https://www.sqlite.org/index.html>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/sqlite.svg alt=SQLite>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://www.mongodb.com/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/mongodb.svg alt=MongoDB>
         </a>
       </td>
       <td height=100 width=100>
@@ -268,6 +274,7 @@
       <th height=33 width=100>ChatGPT</th>
       <th height=33 width=100>ConEmu</th>
       <th height=33 width=100>FarManager</th>
+      <th height=33 width=100>HTTPie</th>
       <th height=33 width=100>Curl</th>
     </tr>
   </thead>
@@ -296,6 +303,11 @@
       <td height=100 width=100>
         <a href=https://www.farmanager.com/index.php?l=en>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/farmanager.svg alt=FarManager>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://httpie.io/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/httpie.svg alt=HTTPie>
         </a>
       </td>
       <td height=100 width=100>
@@ -329,6 +341,52 @@
       <td height=100 width=100>
         <a href=https://developer.hashicorp.com/vagrant/docs>
           <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/vagrant.svg alt=Vagrant>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th height=33 width=100>Python</th>
+      <th height=33 width=100>Jupyter</th>
+      <th height=33 width=100>NumPy</th>
+      <th height=33 width=100>PyTorch</th>
+      <th height=33 width=100>scikit-learn</th>
+      <th height=33 width=100>Hugging Face</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height=100 width=100>
+        <a href=https://www.python.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/python.svg alt=Python>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://jupyter.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/jupyter.svg alt=Jupyter>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://numpy.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/numpy.svg alt=NumPy>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://pytorch.org/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/pytorch.svg alt=PyTorch>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://scikit-learn.org/stable/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/scikit-learn.svg alt=scikit-learn>
+        </a>
+      </td>
+      <td height=100 width=100>
+        <a href=https://huggingface.co/>
+          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/huggingface.svg alt=Hugging Face>
         </a>
       </td>
     </tr>

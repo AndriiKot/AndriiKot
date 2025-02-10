@@ -1,4 +1,4 @@
-contact me: http://t.me/@Andrey_Kotsiuba
+contact me: http://t.me/Andrey_Kotsiuba
 <table>
   <thead>
     <tr>
